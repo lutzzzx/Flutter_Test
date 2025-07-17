@@ -4,11 +4,11 @@ Proyek ini adalah aplikasi Flutter yang dibuat untuk *assessment test* di Suitme
 
 ## 📜 Daftar Isi
 
-* [Fitur Utama](https://www.google.com/search?q=%23-fitur-utama)
-* [Tangkapan Layar](https://www.google.com/search?q=%23-tangkapan-layar)
-* [Teknologi & Library](https://www.google.com/search?q=%23-teknologi--library)
-* [Struktur Proyek](https://www.google.com/search?q=%23-struktur-proyek)
-* [Cara Menjalankan Proyek](https://www.google.com/search?q=%23-cara-menjalankan-proyek)
+- [Fitur Utama](#fitur-utama)
+- [Tangkapan Layar](#tangkapan-layar)
+- [Teknologi & Library](#teknologi--library)
+- [Struktur Proyek](#struktur-proyek)
+- [Cara Menjalankan Proyek](#cara-menjalankan-proyek)
 
 -----
 

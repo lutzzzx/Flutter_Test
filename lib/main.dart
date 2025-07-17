@@ -12,7 +12,11 @@ void main() {
       theme: ThemeData(
         fontFamily: 'Poppins',
         primarySwatch: Colors.teal,
+        scaffoldBackgroundColor: Colors.white,
         visualDensity: VisualDensity.adaptivePlatformDensity,
+        appBarTheme: AppBarTheme(
+          backgroundColor: Colors.white,
+        )
       ),
     ),
   );

@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:suitmedia/app/routes/app_pages.dart';
-import 'package:suitmedia/app/widgets/custom_button.dart';
 import 'package:suitmedia/app/widgets/custom_dialog.dart';
 
 class FirstScreenController extends GetxController {
